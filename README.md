@@ -14,7 +14,9 @@ the key concepts for gradient descent, backpropagation, optimization functions f
 
 - 📈 **Neural Network Design with Tensorflow** - used for vector classification/ in which quadrant or octant is located
 for two-dimensional case - [Vector Classification Quadrants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_2D_quadrants.py)
+
 for three-dimensioanl case -  [Vector Classification Octants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_3D_octants.py)
+
 for predicting the value of the sin function - [Predicting the behaviour of sinx](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_predicting_the_behaviour_sinx_func.py)
 
 - ** Implementing Backpropagation from scratch** - calculating the derivatives and applying gradient descent while traversing the neural network
@@ -25,12 +27,16 @@ using backpropagation for computation of the weights , so to find the best weigh
 - 🤖 **Model Evaluation with accuracy and loss functions:**
   
 [Task_one](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/backpropagation_task1.py)
+
 [Task_two](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/backpropagation_task2.py)
+
 [Task_three](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/backpropagation_task3.py)
+
 [Optimization_func](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/Finding_the_best_parameters_using_minimizing_function.py)
 
 - 💡 **Math Modelling:** Applying neural networks for dynamic systems - using ODE/ordinary different equations/ for computing the affection amongst the different variables - infected, sustainable, and recovered
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
+
 [SIR_Model](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_SIR_model_predictions.py)
   
 ---
