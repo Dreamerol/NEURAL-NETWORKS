@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack / Инструменти
 
 <p align="left">
