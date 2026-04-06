@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack / Инструменти
 
-<p align="left">
+<p align="center">
 🐍 Python &nbsp; | &nbsp; 🔢 NumPy &nbsp; | &nbsp; 📊 Pandas &nbsp; | &nbsp; 📈 Matplotlib/Seaborn<br>
 🤖 TensorFlow/Keras &nbsp; | &nbsp; 🧩 Scikit-learn &nbsp; | &nbsp; 🗄️ SQL/Oracle &nbsp; | &nbsp; 🌐 Git/GitHub<br>
 📓 Jupyter Notebook &nbsp; | &nbsp; 💻 VS Code/PyCharm
