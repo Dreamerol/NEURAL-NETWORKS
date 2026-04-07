@@ -26,13 +26,13 @@
 Used for vector classification (determining in which quadrant or octant a vector is located) and function approximation.
 
 - **2D Case (Quadrants):**  
-  [Vector Classification Quadrants](https://github.com/Dreamerol/Neural_Networks_Lab/NN_vector_classification_2D_quadrants.py)
+  [Vector Classification Quadrants](https://github.com/Dreamerol/NEURAL-NETWORKS/NN_vector_classification_2D_quadrants.py)
 
 - **3D Case (Octants):**  
-  [Vector Classification Octants](https://github.com/Dreamerol/Neural_Networks_Lab/NN_vector_classification_3D_quadrants.py)
+  [Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/NN_vector_classification_3D_quadrants.py)
 
 - **Function Approximation (sin(x)):**  
-  [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/Neural_Networks_Lab/NN_predicting_the_behaviour_of_sinx_func.py)
+  [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/NN_predicting_the_behaviour_of_sinx_func.py)
 
 ---
 
@@ -46,14 +46,14 @@ Used for vector classification (determining in which quadrant or octant a vector
 
 ### 🤖 Model Evaluation (Accuracy & Loss Functions)
 
-- [Backpropagation Task One](https://github.com/Dreamerol/backpropagation_task1.py)  
-- [Backpropagation Task Two](https://github.com/Dreamerol/backpropagation_task2.py)  
-- [Backpropagation Task Three](https://github.com/Dreamerol/backpropagation_task3.py)  
-- [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/Finding_the_best_parameters_using_minimizing_function.py)
+- [Backpropagation Task One](https://github.com/Dreamerol/NEURAL-NETWORKS/backpropagation_task1.py)  
+- [Backpropagation Task Two](https://github.com/Dreamerol/NEURAL-NETWORKS/backpropagation_task2.py)  
+- [Backpropagation Task Three](https://github.com/Dreamerol/NEURAL-NETWORKS/backpropagation_task3.py)  
+- [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/NEURAL-NETWORKS/Finding_the_best_parameters_using_minimizing_function.py)
 
 - 💡 **Math Modelling:** Applying neural networks for dynamic systems - using ODE/ordinary different equations/ for computing the affection amongst the different variables - infected, sustainable, and recovered
 predicting the trajectory of SIR model - plotting the results - interesting fact for these kind of models - is that for training our NN model we need to map the current value of the variables with the previous ones
-[SIR_Model](https://github.com/Dreamerol/NN_SIR_model_predictions.py)
+[SIR_Model](https://github.com/Dreamerol/NEURAL-NETWORKS/NN_SIR_model_predictions.py)
 
   
 ## 🛠️ Tech Stack / Инструменти
