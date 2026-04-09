@@ -77,15 +77,6 @@
   Not just what neural networks do — but how they become capable of doing it.
 </p>
 
----
-
-
-
-🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
-But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
-
-This project is an exploration of that process.  
-Not just what neural networks do — but how they become capable of doing it.
 
 ---
 
