@@ -1,7 +1,7 @@
 <h1 align="center">NEURAL NETWORKS</h1>
 
   
-<h2 align="center" style="font-size:100%;">
+<h2 align="center" style="font-size:50%;">
   <b><i>BUILDING NEURAL NETWORKS — FROM STRUCTURE TO INTELLIGENCE</i></b>
 </h2>
 
