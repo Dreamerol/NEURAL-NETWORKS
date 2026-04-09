@@ -96,7 +96,7 @@ The system begins to understand change itself. 🌍
 
 ---
 
-<h2 align="center">🏆 THE RESULT</h2>
+<h2 align="LEFT">🏆 THE RESULT</h2>
 
 A structured progression:
 
