@@ -20,6 +20,60 @@
 
 ---
 
+🌐 Neural networks are often described as tools — efficient, practical, almost mechanical in their use.
+But this work approaches them differently. 🧠
+
+As something more patient. More human in its unfolding.
+
+A process that does not begin with answers, but with understanding how those answers are slowly formed. 🌱
+
+It begins in silence, with geometry. 📍
+
+Points in space — 2D, then 3D — are not yet data in the usual sense, but positions waiting to be understood. The network learns to separate them, to find order in what first appears scattered.
+
+Quadrants. Octants. Simple divisions of space.
+And yet, behind this simplicity, something deeper begins to take shape: recognition. ✨
+
+From space, it moves into motion. 🌊
+
+Instead of points, it is given curves — fragments of behavior. A function like sin(x), revealed only in parts, never entirely.
+
+And still, it learns.
+
+Not by remembering what is shown, but by sensing what continues beyond it.
+As if intuition, slowly, is being replaced by computation. ⚙️
+
+Then comes the question beneath all questions: how does learning itself happen? 🔍
+
+So everything is taken apart.
+
+Backpropagation. Gradient descent.
+Not as abstract ideas, but as processes built carefully, deliberately, from the ground up.
+
+Each adjustment is small. Almost insignificant on its own.
+And yet together, they form change.
+
+Measured in error. In correction. In quiet improvement. 📉
+
+And finally, time enters the picture. ⏳
+
+Systems inspired by SIR models begin to evolve — not as fixed states, but as stories unfolding step by step: susceptible, infected, recovered.
+
+Each moment depends on the one before it. Nothing exists in isolation anymore.
+
+The network is no longer learning patterns alone — it is learning change. 🌍
+
+🏆 What remains is not a collection of techniques.
+
+But a progression — almost a narrative — from space, to pattern, to process, to time.
+
+And beneath it all, a simple idea, returning again and again in different forms:
+
+That learning is not a single moment of intelligence…
+but something that slowly becomes itself. 🌿
+
+---
+
 ## 📌 Key Tasks
 
 ### 📈 Neural Network Design with TensorFlow
