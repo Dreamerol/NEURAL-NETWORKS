@@ -475,3 +475,13 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
   <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
   <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
 </p>
+
+---
+
+<p align="center">
+  🔗 Explore more projects & contact via profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+---
