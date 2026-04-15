@@ -457,8 +457,9 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 ---
 
+
 <p align="center">
-  🔗 Explore more projects & contact via profile: 
+  🔗 Explore more on my GitHub profile: 
   <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
 </p>
 
