@@ -191,7 +191,7 @@ Learning becomes visible as a process of continuous correction. 📉
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>lds.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+
 </p>
 
 ---
