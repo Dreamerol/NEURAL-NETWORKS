@@ -294,6 +294,22 @@ This lab is not just coding – it’s understanding **how machines think** and 
 
 ---
 
+## 🏆 Overview
+The lab is divided into several main areas:  
+
+- **🔹 Neural Network Design with TensorFlow** – classifying vectors in 2D & 3D.  
+- **🔹 Implementing Neural Networks from Scratch** – mastering gradient descent, backpropagation, and weight optimization.  
+- **🔹 Mathematical Modelling & Dynamic Systems** – applying NNs to SIR epidemiological models.  
+
+Each section teaches **concepts, problem-solving, and visualization**, making abstract math tangible.  
+
+**Badges:**    
+`📊 TensorFlow` `🟢 Vector Classification` `⚙️ Backpropagation` `📈 Math Modelling` `💡 Scientific Method`  
+
+
+
+---
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
@@ -309,21 +325,6 @@ This lab is not just coding – it’s understanding **how machines think** and 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
-
----
-
-## 🏆 Overview
-The lab is divided into several main areas:  
-
-- **🔹 Neural Network Design with TensorFlow** – classifying vectors in 2D & 3D.  
-- **🔹 Implementing Neural Networks from Scratch** – mastering gradient descent, backpropagation, and weight optimization.  
-- **🔹 Mathematical Modelling & Dynamic Systems** – applying NNs to SIR epidemiological models.  
-
-Each section teaches **concepts, problem-solving, and visualization**, making abstract math tangible.  
-
-**Badges:**    
-`📊 TensorFlow` `🟢 Vector Classification` `⚙️ Backpropagation` `📈 Math Modelling` `💡 Scientific Method`  
-
 
 ---
 
