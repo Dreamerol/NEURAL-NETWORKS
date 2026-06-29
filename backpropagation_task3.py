@@ -60,7 +60,7 @@ def derivative_w21(x_values, y_values):
   suma = 0
   N = len(y_values)
   for i in range(N):
-    suma += (y_values[i][0] - sigmoid(w21 * x_values[i][0] + w22 * x_values[i][1])) * sigmoid_derivative(21 * x_values[i][0] + w22 * x_values[i][1]) * x_values[i][0]
+    suma += (y_values[i][0] - sigmoid(w21 * x_values[i][0] + w22 * x_values[i][1])) * sigmoid_derivative(w21 * x_values[i][0] + w22 * x_values[i][1]) * x_values[i][0]  # FIX: w21 instead of literal 21
 
   return -(1 / N) * suma
 

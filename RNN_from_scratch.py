@@ -13,12 +13,12 @@ print(binary_to_decimal([0,1,0]))
 def dataset(num):
     bin_len = 6
     X = np.zeros([num, bin_len])
-    Y = np.zeros(bin_len)
+    Y = np.zeros(num)
     
     for i in range(num):
-        X[i] = np.array([random.randint(0, 1) for _ in range(num)])
+        X[i] = np.array([random.randint(0, 1) for _ in range(bin_len)])  # FIX: bin_len instead of num
         Y[i] = binary_to_decimal(X[i])
-        return X, Y
+    return X, Y  # FIX: return moved outside the loop
 
 X_train, Y_train = dataset(6)
 X_test, Y_test = dataset(5)
@@ -120,5 +120,5 @@ class RNN:
     
 rnn = RNN()
 rnn.train(X_train, Y_train, 500)
-print "Weight: \t", rnn.W
-print "Predicted: \t", rnn.forward_states(X_test)[:, -1]
+print("Weight: \t", rnn.W)           # FIX: Python 3 print()
+print("Predicted: \t", rnn.forward_states(X_test)[:, -1])  # FIX: Python 3 print()

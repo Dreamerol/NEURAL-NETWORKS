@@ -20,7 +20,7 @@ def tanh(x):
     return np.tanh(x)
 
 def tanh_deriv(x):
-    return 1/np.cos(x)**2
+    return 1 - np.tanh(x)**2  # FIX: correct tanh derivative (was 1/cos(x)**2 which is tan derivative)
 
 activation_functions = {
     sigmoid : sigmoid_derivative,
@@ -121,3 +121,118 @@ for epoch in range(epochs):
     if epoch % 10 == 0:
         print(f"Epoch {epoch}, Loss: {loss}")
 
+
+#advanced implementation
+class Neuron2:
+    def __init__(self,n_inputs,bias=0.1):
+        self.weights = np.random.randn(len(n_inputs))
+        self.bias = bias
+        self.output = sum([n_inputs[i]*self.weights[i] for i in range(len(n_inputs))]) + bias
+    def update_neuron(self, n_inputs, weights, bias):
+        self.weights = weights
+        self.bias = bias
+        self.output = sum([n_inputs[i]*self.weights[i] for i in range(len(n_inputs))]) + bias
+
+    def forward_neuron(self,activ_func):
+        self.output = activ_func(self.output)
+    
+    def backpropagation(self, derivs, learning_rate):
+        self.delta = 0
+        for i in range(len(derivs)):
+            self.delta += derivs[i]*self.weights[i]
+        for i in range(len(self.weights)):
+            self.weights[i] -= learning_rate*self.delta
+        self.bias -= learning_rate*self.bias
+
+class DenseLayer2:
+    def __init__(self, number_neurons, activation_function, n_inputs):
+        self.neurons = []
+        for i in range(number_neurons):
+            neuron=Neuron2(n_inputs)
+            self.neurons.append(neuron)
+        self.activation_function = activation_function
+    
+    def forward(self):
+        for n in self.neurons:
+            n.forward_neuron(self.activation_function)
+    def getOutput(self):
+        result = []
+        for item in self.neurons:
+            result.append(item.output)
+        return result
+    
+    def backProp(self,derivs,learning_rate):
+        for i in range(len(self.neurons)):
+            self.neurons[i].backpropagation(derivs,learning_rate)
+
+class NeuralNetwork2:
+    def __init__(self, layers_info, n_input, n_output):
+        first_layer = DenseLayer2(layers_info[0][0], layers_info[0][1], n_input)
+        self.layers = []
+        self.layers.append(first_layer)
+        self.target = n_output
+        for i in range(len(layers_info)):
+            if i == 0:
+                continue
+            layer = DenseLayer2(layers_info[i][0], layers_info[i][1], self.layers[-1].getOutput())  # FIX: use getOutput() instead of .output
+            self.layers.append(layer)
+
+    def add_layer(self, one_layer_info):
+        layer=DenseLayer2(self.layers[-1].getOutput(), one_layer_info[0], one_layer_info[1])
+        self.layers.append(layer)
+    
+    def forwardNN(self, input):
+        for i in range(len(self.layers)):
+            j = 0
+            for item in self.layers[i].neurons:
+                if j == 0:
+                    result = input
+                else:
+                    result = self.layers[i-1].getOutput()
+                item.update_neuron(result, item.weights, item.bias)
+                j += 1
+        return self.getResult()
+    
+    def getResult(self):
+        print(self.layers[-1].getOutput())
+    
+    def ADAM_optimization(self, learning_rate, target):
+        # FIX: closed parenthesis correctly; np.log receives neuron output value
+        self.loss = -sum([target[i]*np.log(self.layers[-1].neurons[i].output) for i in range(len(target))])
+        delta_one = [target[i]*(1-self.layers[-1].neurons[i].output) for i in range(len(target))]
+        for i in range(len(self.layers[-1].neurons)):
+            self.layers[-1].neurons[i].bias -= learning_rate*self.layers[-1].neurons[i].bias
+            self.layers[-1].neurons[i].backpropagation(delta_one,learning_rate)
+
+        for i in range(len(self.layers) - 2,0,-1):
+            derivs = [item.delta for item in self.layers[i+1].neurons]
+            self.layers[i].backProp(derivs,learning_rate)
+
+def Relu2(x):
+    if x >= 0:
+        return x
+    else:
+        return 0
+    
+def sigmoid_func(x):
+    return 1/(1 + np.exp(-x))
+
+def f(x):
+    return 1/x
+
+def softmax_func(output):
+    suma = sum([np.exp(item) for item in output])
+    return [np.exp(item)/suma for item in output]
+
+NN2 = NeuralNetwork2([[2, sigmoid_func]], [0, .7, 0.3], [0, 0, 1])
+NN2.getResult()
+print(87777)
+samples_inputs2 = [[-9,6,6], [3,5,8], [0,0,1]]
+samples_outputs2 = [[0,1,0], [0,1,0], [0,0,1]]
+
+def optimizer(NN, epochs, samples_inputs, sample_outputs):
+    for i in range(epochs):
+        for j in range(len(samples_inputs)):
+            NN.forwardNN(samples_inputs[j])
+            NN.ADAM_optimization(0.1, sample_outputs[j])
+        print(f"Epoch: {i}, Loss: {NN.loss}")  # FIX: f-string instead of string concatenation

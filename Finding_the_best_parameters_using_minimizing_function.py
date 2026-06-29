@@ -1,5 +1,5 @@
 import numpy as np
-from fontTools.varLib.avar.plan import WEIGHTS
+# FIX: removed bogus 'from fontTools.varLib.avar.plan import WEIGHTS' — wrong library, unrelated to this task
 
 
 def sigmoid(x):
@@ -33,7 +33,7 @@ Weights = np.random.rand(size_weights_one + size_weights_two)
 print(NN(x_vector, weights_one, weights_two))
 
 
-def Loss(W, Y_output, X_input):
+def Loss(W, X_input, Y_output):  # FIX: swapped argument order to match args= call below
   sum = 0
   W1 = W[:size_weights_one].reshape(n, m)
   W2 = W[size_weights_one:].reshape(1, n)
@@ -48,7 +48,7 @@ def f(x):
 X_input = np.array([[2], [4]])
 y_output = np.array([f(X_input[i]) for i in range(s)])
 from scipy.optimize import minimize
-print(minimize(Loss, Weights, args=(X_input, y_output), method='L-BFGS-B'))
+print(minimize(Loss, Weights, args=(X_input, y_output), method='L-BFGS-B'))  # FIX: args order matches Loss(W, X_input, Y_output)
 
 
 # print(X_input)
@@ -56,7 +56,7 @@ print(minimize(Loss, Weights, args=(X_input, y_output), method='L-BFGS-B'))
 # print(X_input[i])
 
 #FINAL WEIGHTS
-result = minimize(Loss, Weights, args=(X_input, y_output), method='BFGS').x
+result = minimize(Loss, Weights, args=(X_input, y_output), method='BFGS').x  # FIX: args order
 W1_final = result[:size_weights_one].reshape(n, m)
 W2_final = result[size_weights_one:].reshape(1, n)
 
