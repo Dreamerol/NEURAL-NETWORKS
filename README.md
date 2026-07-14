@@ -343,6 +343,11 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 
 
+
+<br>
+
+
+
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
@@ -366,56 +371,83 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br>
+
+
+
+
+<br><br>
 
 
 
 
 
----
+<div align="center">
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
+</div>
 
 
 
 
 
-<p align="center">
+<br><br>
 
-<a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
-  <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol">
-  <img height="65" src="https://img.shields.io/badge/GITHUB-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/PORTFOLIO">
-  <img height="65" src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/ALLSTATS">
-  <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
 </a>
+</td>
 
-<a href="https://github.com/Dreamerol/RESUME">
-  <img height="65" src="https://img.shields.io/badge/RESUME-9D4EDD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<td>
+<a href="https://github.com/Dreamerol/RESUME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
 </a>
+</td>
+
+</tr>
+</table>
 
 
-</p>
 
 
 
 
-<br>
-<br>
-<br>
-<br>
-
-
+<br><br><br><br>
 
 
 
