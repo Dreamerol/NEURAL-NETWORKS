@@ -13,6 +13,32 @@
 
 
 
+---
+
+
+
+
+
+<div align="center" style="white-space:nowrap;">
+
+<span style="font-size:1.15em;">
+📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 • 
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> • 
+🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
+🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
+🧩 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
+📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗔𝗟𝗟 𝗦𝗧𝗔𝗧𝗦</b></a> •
+✅ <a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a> • 
+</span>
+
+</div>
+
+
+
+
+
+
+
 
 
 
