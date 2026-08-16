@@ -1,9 +1,12 @@
-
 #zad 2
 #Here the struct is a bit different 
 #[x] -> f -> ax + b -> sigmoid -> g -> c*delta(ax+b) + d -> sigmoid -> finally we get delta(c*delta(ax+b) + d)
 #we have four parameters
 
+import numpy as np  # FIX: added missing imports
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
 
 x2 = np.linspace(-25, 25, 101)
 y2 = 1/10*sigmoid(3*x2-2)-100
@@ -57,6 +60,7 @@ def derivative_MSE_d(x_values, y_values):
     suma += ((y_values[i] - sigmoid(c * sigmoid(a * x_values[i] + b) + d))* sigmoid_derivative(c * sigmoid(a * x_values[i] + b) + d))
 
   return -2 / (n + 1) * suma
+
 def MSE(x_values, y_values):
   n = len(y_values)
   return (1/(n+1))*sum([(y_values[i] - sigmoid(c*sigmoid(a*x_values[i] + b) + d))**2 for i in range(len(y_values))])

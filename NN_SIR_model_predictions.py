@@ -68,7 +68,7 @@ trajectories = np.array(trajectories)
 #visualizing the trajectories
 
 fig = plt.figure()
-ax = fig.sub_plot(111,projection='3d') #111 - means 1 row, 1 col, 1 output
+ax = fig.add_subplot(111, projection='3d')  # FIX: add_subplot instead of sub_plot
 ax.plot(
     trajectories[:,0], #take all rows /:/ where column 0
     trajectories[:,1],
