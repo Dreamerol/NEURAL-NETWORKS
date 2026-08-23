@@ -286,7 +286,7 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol • github.com/Dreamerol
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
