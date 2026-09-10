@@ -2,7 +2,7 @@
 
   
 <h2 align="center" style="font-size:50%;">
-  <b>BUILDING NEURAL NETWORKS — FROM STRUCTURE TO INTELLIGENCE</b>
+  <b>FROM STRUCTURE TO INTELLIGENCE</b>
 </h2>
 
 
