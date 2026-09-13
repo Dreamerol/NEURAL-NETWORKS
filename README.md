@@ -172,10 +172,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
 <br><br>
 
 
@@ -186,6 +182,18 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <p align="center"> <b><i>From structure → to patterns → to learning → to time.</i></b> </p>
 
+
+
+<br>
+
+
+
+---
+
+
+<br>
+
+
 <h2 align="center">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 <p align="center"> 🌐 Neural networks are often presented as tools — fast, efficient, and ready to use. </p>
@@ -195,6 +203,15 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <p align="center"> This project is an exploration of that process. </p>
 
 <p align="center"> Not just what neural networks do — but how they become capable of doing it. </p>
+
+
+<br>
+
+---
+
+
+<br>
+
 
 <h3>📍 It begins with space</h3>
 
