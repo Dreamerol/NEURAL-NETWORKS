@@ -292,6 +292,8 @@ It is a process that unfolds.
 
 ---
 
+<p align="left">
+
 ## 📌 Key Tasks
 
 ### 📈 Neural Network Design with TensorFlow
@@ -381,6 +383,7 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
 
+</div>
 
 
 ---
