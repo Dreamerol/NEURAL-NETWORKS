@@ -74,7 +74,13 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+
+
+
+
 <div align="center">
+
+
 
 <table>
 <tr>
@@ -84,23 +90,16 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <span style="font-size:1.4em;"><a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a></span>
 </td>
 
+
 <td align="center"><span style="font-size:1.3em;">│</span></td>
-
-
-
-
 
 <td align="center" width="12%">
 <span style="font-size:1.55em;">⚛️</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/AI-BUILDS">𝗔𝗜𝗙𝗢𝗟𝗜𝗢</a></span>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/AI-STUDIO">𝗔𝗜𝗦𝗧𝗨𝗗𝗜𝗢</a></span>
 </td>
 
+
 <td align="center"><span style="font-size:1.3em;">│</span></td>
-
-
-
-
-
 
 <td align="center" width="12%">
 <span style="font-size:1.55em;">🟢</span><br>
@@ -114,6 +113,12 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/CARDFOLIO">𝗥𝗘𝗣𝗢𝗦</a></span>
 </td>
 
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">📊</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/ALLSTATS">𝗦𝗧𝗔𝗧𝗦</a></span>
+</td>
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
@@ -122,24 +127,12 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a></span>
 </td>
 
-
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🐙</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a></span>
-</td>
-
-
-
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
 <td align="center" width="12%">
 <span style="font-size:1.55em;">🔗</span><br>
 <span style="font-size:1.4em;"><a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a></span>
 </td>
-
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
@@ -154,6 +147,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </div>
 
 
+
+
+
+
+
+
+
+---
 
 
 
