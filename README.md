@@ -418,6 +418,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
 
+
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-AI%20STUDIO.png"
 width="100%"
@@ -428,10 +429,17 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 </div>
 
+
+
+
 <br><br><br><br>
+
+
 
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
+
+
 
 <td>
 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
@@ -443,6 +451,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </a>
 </td>
 
+
+
 <td>
 <a href="https://github.com/Dreamerol" target="_blank">
 <img
@@ -452,6 +462,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 />
 </a>
 </td>
+
+
 
 <td>
 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
@@ -463,6 +475,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </a>
 </td>
 
+
+
 <td>
 <a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
 <img
@@ -472,6 +486,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 />
 </a>
 </td>
+
 
 <td>
 <a href="https://github.com/Dreamerol/RESUME" target="_blank">
