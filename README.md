@@ -372,13 +372,18 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`
 
----
+
 
 </div>
 
 </div>
 
+
+
+
 ---
+
+
 
 <br>
 <br>
