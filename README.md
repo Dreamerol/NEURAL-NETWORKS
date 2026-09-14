@@ -273,77 +273,66 @@ The system begins to understand change itself. 🌍
 
 <br>
 
-📌 Key Tasks
-📈 Neural Network Design with TensorFlow
+## 📌 Key Tasks
+
+### 📈 Neural Network Design with TensorFlow
 
 Used for vector classification (determining in which quadrant or octant a vector is located) and function approximation.
 
-<br>
+---
+
+### 🟢 Vector Classification
+
+#### 2D Case (Quadrants)
+
+[Vector Classification Quadrants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_2D_quadrants.py)
+
+#### 3D Case (Octants)
+
+[Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_3D_octants.py)
 
 ---
 
+### 🔵 Predicting Function Values
 
-<br>
+#### Sin(x) Prediction
 
-
-🟢 Vector Classification
-2D Case (Quadrants):
-Vector Classification Quadrants
-3D Case (Octants):
-Vector Classification Octants
-
-<br>
-
----
-
-
-<br>
-
-
-🔵 Predicting Function Values
-Sin(x) Prediction:
-Predicting the Behavior of sin(x)
+[Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_predicting_the_behaviour_sinx_func.py)
 
 This model predicts the value of sin(x) using a neural network trained on sampled points.
 
-<br>
-
 ---
 
-<br>
+### 🔁 Implementing Backpropagation from Scratch
 
-🔁 Implementing Backpropagation from Scratch
 Implemented manual backpropagation by calculating derivatives and applying gradient descent.
+
 Explored different neural network architectures and input formats across multiple tasks.
+
 Used activation functions such as identity and sigmoid.
+
 Optimized weights to minimize error using Mean Squared Error (MSE).
 
+---
 
-<br>
+### 🤖 Model Evaluation (Accuracy & Loss Functions)
+
+- [Backpropagation Task One](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task1.py)
+- [Backpropagation Task Two](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task2.py)
+- [Backpropagation Task Three](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task3.py)
+- [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/Finding_the_best_parameters_using_minimizing_function.py)
 
 ---
 
-<br>
+### 💡 Math Modelling & SIR Predictions
+
+Applied neural networks to dynamic systems using ODE (ordinary differential equations) to compute the interactions among different variables — infected, susceptible, and recovered — and predict the trajectory of the SIR model.
+
+[SIR Model](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_SIR_model_predictions.py)
 
 
-🤖 Model Evaluation (Accuracy & Loss Functions)
-Backpropagation Task One
-Backpropagation Task Two
-Backpropagation Task Three
-Finding Best Parameters (Optimization Function)
 
 
-<br>
-
-
----
-
-
-<br>
-
-💡 Math Modelling: Applying neural networks for dynamic systems using ODE (ordinary differential equations) to compute the interactions among different variables — infected, susceptible, and recovered — and predict the trajectory of the SIR model.
-
-SIR Model
 
 <br>
 
