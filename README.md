@@ -169,9 +169,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
 <br><br>
 
 
@@ -250,6 +247,14 @@ Each state depends on the previous one, forming trajectories instead of isolated
 
 The system begins to understand change itself. 🌍
 
+<br>
+
+---
+
+
+<br>
+
+
 <h2 align="left">🏆 THE RESULT</h2>
 
 <p align="left"> A structured progression: </p>
@@ -262,36 +267,90 @@ The system begins to understand change itself. 🌍
 
 <p align="left"> <b> Learning is not a moment.<br> It is a process that unfolds. </b> </p>
 
+<br>
+
+---
+
+<br>
+
 📌 Key Tasks
 📈 Neural Network Design with TensorFlow
 
 Used for vector classification (determining in which quadrant or octant a vector is located) and function approximation.
+
+<br>
+
+---
+
+
+<br>
+
 
 🟢 Vector Classification
 2D Case (Quadrants):
 Vector Classification Quadrants
 3D Case (Octants):
 Vector Classification Octants
+
+<br>
+
+---
+
+
+<br>
+
+
 🔵 Predicting Function Values
 Sin(x) Prediction:
 Predicting the Behavior of sin(x)
 
 This model predicts the value of sin(x) using a neural network trained on sampled points.
 
+<br>
+
+---
+
+<br>
+
 🔁 Implementing Backpropagation from Scratch
 Implemented manual backpropagation by calculating derivatives and applying gradient descent.
 Explored different neural network architectures and input formats across multiple tasks.
 Used activation functions such as identity and sigmoid.
 Optimized weights to minimize error using Mean Squared Error (MSE).
+
+
+<br>
+
+---
+
+<br>
+
+
 🤖 Model Evaluation (Accuracy & Loss Functions)
 Backpropagation Task One
 Backpropagation Task Two
 Backpropagation Task Three
 Finding Best Parameters (Optimization Function)
 
+
+<br>
+
+
+---
+
+
+<br>
+
 💡 Math Modelling: Applying neural networks for dynamic systems using ODE (ordinary differential equations) to compute the interactions among different variables — infected, susceptible, and recovered — and predict the trajectory of the SIR model.
 
 SIR Model
+
+<br>
+
+---
+
+<br>
+
 
 🛠️ Tech Stack / Инструменти
 
@@ -303,11 +362,26 @@ SIR Model
 
 </p>
 
+
+<br>
+
+---
+
+<br>
+
 🚀 Neural Network Lab: From Scratch to Smart Predictions
 
 Welcome to Neural Network Lab, where math, code, and logic collide to create intelligent systems.
 
 This lab is not just coding – it’s understanding how machines think and how neural networks learn from data.
+
+
+<br>
+
+---
+
+<br>
+
 
 🏆 Overview
 
@@ -319,15 +393,38 @@ The lab is divided into several main areas:
 
 Each section teaches concepts, problem-solving, and visualization, making abstract math tangible.
 
+<br>
+
+---
+
+<br>
+
 Badges:
 📊 TensorFlow 🟢 Vector Classification ⚙️ Backpropagation 📈 Math Modelling 💡 Scientific Method
+
+
+<br>
+
+---
+
+<br>
 
 4️⃣ Math Modelling & SIR Predictions
 Applied NNs to dynamic systems: predicting interactions among infected, recovered, and susceptible populations.
 Learned to map current values to previous ones, enabling time-based predictions.
 Plotted SIR trajectory to visualize epidemic evolution.
 
+<br>
+
+---
+
+<br>
+
 📊 SIR Modeller 🌡️ Epidemic Predictor 📈 Data Visualizer
+
+<br>
+
+---
 
 
 
