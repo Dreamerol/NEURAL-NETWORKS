@@ -428,61 +428,6 @@ Plotted SIR trajectory to visualize epidemic evolution.
 
 
 
-<br> <br>
-
-
-
-
-<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
-
-
-
-<div align="center">
-
-<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
-
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Backend • Data Systems & APIs • Applied Machine Learning • Neural Networks • Model Training • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Git • GitHub: Dreamerol
-
-</p>
-
-<p style="font-size:10px; opacity:0.7;">
-
-© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
-
-</p>
-
-
-<p style="font-size:10px; opacity:0.7;">
-
-🔗 Explore on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • Dreamerol</a>
-
-</p>
-
-</div>
-
-
-
-<br><br><br><br>
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-AI%20STUDIO.png" width="100%" alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva, Михаела Косева, Neuroscience, Spiking Neural Networks, Neural Networks, Machine Learning" />
-
-</a>
-
-</div>
-
-
----
-
-
-
-
 
 <br>
 <br>
