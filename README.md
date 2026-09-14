@@ -290,24 +290,32 @@ It is a process that unfolds.
 
 ---
 
+<div align="center">
+
+<div align="left">
+
 ## 📌 Key Tasks
 
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-key-tasks)
+
 ### 📈 Neural Network Design with TensorFlow
+
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-neural-network-design-with-tensorflow)
 
 Used for vector classification (determining in which quadrant or octant a vector is located) and function approximation.
 
 #### 🟢 Vector Classification
 
-* **2D Case (Quadrants):**
-  [Vector Classification Quadrants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_2D_quadrants.py)
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-vector-classification)
 
-* **3D Case (Octants):**
-  [Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_3D_octants.py)
+- **2D Case (Quadrants):** [Vector Classification Quadrants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_2D_quadrants.py)
+- **3D Case (Octants):** [Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_3D_octants.py)
 
 #### 🔵 Predicting Function Values
 
-* **Sin(x) Prediction:**
-  [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_predicting_the_behaviour_sinx_func.py)
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-predicting-function-values)
+
+- **Sin(x) Prediction:** [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_predicting_the_behaviour_sinx_func.py)
 
 This model predicts the value of sin(x) using a neural network trained on sampled points.
 
@@ -315,24 +323,24 @@ This model predicts the value of sin(x) using a neural network trained on sample
 
 ### 🔁 Implementing Backpropagation from Scratch
 
-* Implemented manual backpropagation by calculating derivatives and applying gradient descent.
-* Explored different neural network architectures and input formats across multiple tasks.
-* Used activation functions such as **identity** and **sigmoid**.
-* Optimized weights to minimize error using **Mean Squared Error (MSE)**.
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-implementing-backpropagation-from-scratch)
+
+- Implemented manual backpropagation by calculating derivatives and applying gradient descent.
+- Explored different neural network architectures and input formats across multiple tasks.
+- Used activation functions such as **identity** and **sigmoid**.
+- Optimized weights to minimize error using **Mean Squared Error (MSE)**.
 
 ---
 
 ### 🤖 Model Evaluation (Accuracy & Loss Functions)
 
-* [Backpropagation Task One](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task1.py)
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-model-evaluation-accuracy--loss-functions)
 
-* [Backpropagation Task Two](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task2.py)
-
-* [Backpropagation Task Three](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task3.py)
-
-* [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/Finding_the_best_parameters_using_minimizing_function.py)
-
-* 💡 **Math Modelling:** Applying neural networks for dynamic systems using ODE (ordinary differential equations) to compute the interactions among different variables — infected, susceptible, and recovered — and predict the trajectory of the SIR model.
+- [Backpropagation Task One](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task1.py)
+- [Backpropagation Task Two](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task2.py)
+- [Backpropagation Task Three](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/backpropagation_task3.py)
+- [Finding Best Parameters (Optimization Function)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/Finding_the_best_parameters_using_minimizing_function.py)
+- 💡 **Math Modelling:** Applying neural networks for dynamic systems using ODE (ordinary differential equations) to compute the interactions among different variables — infected, susceptible, and recovered — and predict the trajectory of the SIR model.
 
   [SIR Model](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_SIR_model_predictions.py)
 
@@ -340,17 +348,17 @@ This model predicts the value of sin(x) using a neural network trained on sample
 
 ## 🛠️ Tech Stack / Инструменти
 
-<p align="center">
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#%EF%B8%8F-tech-stack--%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8)
 
-🐍 Python   |   🔢 NumPy   |   📊 Pandas   |   📈 Matplotlib/Seaborn<br>
-🤖 TensorFlow/Keras   |   🧩 Scikit-learn   |   🗄️ SQL/Oracle   |   🌐 Git/GitHub<br>
-📓 Jupyter Notebook   |   💻 VS Code/PyCharm
-
-</p>
+🐍 Python | 🔢 NumPy | 📊 Pandas | 📈 Matplotlib/Seaborn  
+🤖 TensorFlow/Keras | 🧩 Scikit-learn | 🗄️ SQL/Oracle | 🌐 Git/GitHub  
+📓 Jupyter Notebook | 💻 VS Code/PyCharm
 
 ---
 
 ## 🚀 Neural Network Lab: From Scratch to Smart Predictions
+
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-neural-network-lab-from-scratch-to-smart-predictions)
 
 Welcome to **Neural Network Lab**, where math, code, and logic collide to create intelligent systems.
 
@@ -360,26 +368,36 @@ This lab is not just coding – it’s understanding **how machines think** and 
 
 ## 🏆 Overview
 
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#-overview)
+
 The lab is divided into several main areas:
 
-* **🔹 Neural Network Design with TensorFlow** – classifying vectors in 2D & 3D.
-* **🔹 Implementing Neural Networks from Scratch** – mastering gradient descent, backpropagation, and weight optimization.
-* **🔹 Mathematical Modelling & Dynamic Systems** – applying NNs to SIR epidemiological models.
+- **🔹 Neural Network Design with TensorFlow** – classifying vectors in 2D & 3D.
+- **🔹 Implementing Neural Networks from Scratch** – mastering gradient descent, backpropagation, and weight optimization.
+- **🔹 Mathematical Modelling & Dynamic Systems** – applying NNs to SIR epidemiological models.
 
 Each section teaches **concepts, problem-solving, and visualization**, making abstract math tangible.
 
-**Badges:**
-`📊 TensorFlow` `🟢 Vector Classification` `⚙️ Backpropagation` `📈 Math Modelling` `💡 Scientific Method`
+**Badges:** `📊 TensorFlow` `🟢 Vector Classification` `⚙️ Backpropagation` `📈 Math Modelling` `💡 Scientific Method`
 
 ---
 
 ### 4️⃣ Math Modelling & SIR Predictions
 
-* Applied NNs to **dynamic systems**: predicting interactions among infected, recovered, and susceptible populations.
-* Learned to **map current values to previous ones**, enabling **time-based predictions**.
-* Plotted **SIR trajectory** to visualize epidemic evolution.
+[svg](https://github.com/Dreamerol/NEURAL-NETWORKS#4%EF%B8%8F%E2%83%A3-math-modelling--sir-predictions)
+
+- Applied NNs to **dynamic systems**: predicting interactions among infected, recovered, and susceptible populations.
+- Learned to **map current values to previous ones**, enabling **time-based predictions**.
+- Plotted **SIR trajectory** to visualize epidemic evolution.
 
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`
+
+---
+
+</div>
+
+</div>
+
 
 ---
 
