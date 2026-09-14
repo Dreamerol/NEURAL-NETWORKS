@@ -15,6 +15,7 @@
 
 
 
+
 <h1 align="center">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</h1>
 
   
@@ -216,7 +217,19 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
   Not just what neural networks do — but how they become capable of doing it.
 </p>
 
+
+</div>
+
+
 ---
+
+
+
+<div align="left">
+
+<div align="left">
+
+
 
 <h3>📍 It begins with space</h3>
 
@@ -226,6 +239,8 @@ At first, there is no meaning — only coordinates.
 But through learning, the model begins to separate structure from noise, discovering regions, relationships, and organization inside raw space.
 
 What starts as scattered data becomes an internal map of understanding. ✨
+
+
 
 ---
 
@@ -237,6 +252,8 @@ The network is given continuous signals like sin(x), and must learn to approxima
 Not by memorizing points — but by learning the shape behind them.
 
 This is where generalization begins. ⚙️
+
+
 
 ---
 
@@ -250,6 +267,8 @@ Only small updates, repeated over time — each one reducing error, each one ref
 
 Learning becomes visible as a process of continuous correction. 📉
 
+
+
 ---
 
 <h3>⏳ Finally, time</h3>
@@ -261,7 +280,11 @@ Each state depends on the previous one, forming trajectories instead of isolated
 
 The system begins to understand change itself. 🌍
 
+
+
 ---
+
+
 
 <h2 align="left">🏆 THE RESULT</h2>
 
@@ -290,9 +313,7 @@ It is a process that unfolds.
 
 ---
 
-<div align="center">
 
-<div align="left">
 
 ## 📌 Key Tasks
 
@@ -499,7 +520,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <br><br><br>
-
 
 
 
