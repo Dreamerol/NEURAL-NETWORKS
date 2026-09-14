@@ -4,6 +4,184 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</h1>
+
+  
+<h2 align="center" style="font-size:50%;">
+  <b>FROM STRUCTURE TO INTELLIGENCE</b>
+</h2>
+
+
+
+
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+[![Neural Networks](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_NN3.jpg)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+
+
+<table>
+<tr>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">🌐</span><br>
+<span style="font-size:1.4em;"><a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a></span>
+</td>
+
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">⚛️</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/AI-STUDIO">𝗔𝗜𝗦𝗧𝗨𝗗𝗜𝗢</a></span>
+</td>
+
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">🟢</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a></span>
+</td>
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">🧩</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/CARDFOLIO">𝗥𝗘𝗣𝗢𝗦</a></span>
+</td>
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">📊</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/ALLSTATS">𝗦𝗧𝗔𝗧𝗦</a></span>
+</td>
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">✅</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a></span>
+</td>
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">🔗</span><br>
+<span style="font-size:1.4em;"><a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a></span>
+</td>
+
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">✉️</span><br>
+<span style="font-size:1.4em;"><a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</a></span>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 
