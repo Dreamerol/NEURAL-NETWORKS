@@ -403,7 +403,9 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 
 
+
 ---
+
 
 
 
@@ -473,9 +475,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
 
@@ -524,6 +523,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 </tr>
 </table>
+
 
 
 
