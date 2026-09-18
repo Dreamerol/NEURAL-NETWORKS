@@ -37,7 +37,7 @@
 
 
 
-[![Neural Networks](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-NN333.png)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
+[![Neural Networks](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-NN.jpg)](https://dreamerol.github.io/APPLIED-AI-ENGINEER/)
 
 
 
