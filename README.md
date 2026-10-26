@@ -197,6 +197,19 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
   <b><i>From structure → to patterns → to learning → to time.</i></b>
 </p>
 
+
+
+
+
+
+
+
+<div align="left">
+
+<div align="left">
+
+
+
 ---
 
 <h2 align="center">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
@@ -223,11 +236,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 ---
 
-
-
-<div align="left">
-
-<div align="left">
 
 
 
