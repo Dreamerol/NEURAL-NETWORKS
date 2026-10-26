@@ -207,15 +207,14 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-
-
-<div align="left">
-
-<div align="left">
-
-
-
 ---
+
+
+<div align="left">
+
+<div align="left">
+
+
 
 <h2 align="center">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
@@ -236,7 +235,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 </p>
 
 
-</div>
+
 
 
 ---
