@@ -228,7 +228,12 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
   <b><i>From structure → to patterns → to learning → to time.</i></b>
 </p>
 
+
+
 ---
+
+
+
 
 <div align="left">
 
@@ -256,28 +261,10 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+<div align="left">
 
 
-<h2 align="center">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
-
-<p align="center">
-  🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.
-</p>
-
-<p align="center">
-  But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
-</p>
-
-<p align="center">
-  This project is an exploration of that process.
-</p>
-
-<p align="center">
-  Not just what neural networks do — but how they become capable of doing it.
-</p>
-
-
-
+<div align="left">
 
 
 ---
