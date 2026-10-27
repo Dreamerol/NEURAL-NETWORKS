@@ -174,6 +174,13 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <br>
 
 
+<br>
+
+
+
+
+
+
 
 <h1 align="center">🧠 Neural Networks — How Machines Learn to Think</h1>
 
@@ -188,6 +195,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 </div>
+
 
 
 
