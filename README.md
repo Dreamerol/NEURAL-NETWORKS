@@ -5,13 +5,8 @@
 
 
 
+<h1 align="center">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦 - 𝗙𝗥𝗢𝗠 𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘 𝗧𝗢 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘</h1>
 
-<h1 align="center">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</h1>
-
-  
-<h2 align="center" style="font-size:50%;">
-  <b>FROM STRUCTURE TO INTELLIGENCE</b>
-</h2>
 
 
 
