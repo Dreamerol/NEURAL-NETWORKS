@@ -182,19 +182,22 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+
+
 <h1 align="center">🧠 Neural Networks — How Machines Learn to Think</h1>
 
-
+<p align="center">
   <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
+</p>
 
-
-
+<p align="center">
   <b><i>From structure → to patterns → to learning → to time.</i></b>
-
+</p>
 
 
 
 </div>
+
 
 
 
