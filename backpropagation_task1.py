@@ -4,6 +4,14 @@
 #so first we get the output of the hidden neuron and then we call sigmoid func
 #[] -> LT/linear transformation/ -> [] -> id/identitet/ -> output
 
+import numpy as np  # FIX: added missing imports
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+def sigmoid_derivative(x):
+    return sigmoid(x) * (1 - sigmoid(x))
+
 #our training data
 x1 = np.linspace(-25, 25, 101)
 y1 = 1/10*sigmoid(x1)-100
