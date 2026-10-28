@@ -191,9 +191,11 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
    <b><i>A portfolio project exploring how neural networks learn: from geometry to dynamic systems</i></b>
 </h2>
 
-<p align="center">
-  <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
-</p>
+<h2 align="center">
+   <b><i>From structure → to patterns → to learning → to time</i></b>
+</h2>
+
+
 
 <p align="center">
  <b><i>From structure → to patterns → to learning → to time.</i></b>
